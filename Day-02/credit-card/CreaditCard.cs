@@ -35,17 +35,21 @@ public class CreditCard {
       return 0;
     }
     dailyTotalTransaction += amount;
-    totalWithdrawn -= amount;
+    totalWithdrawn += amount;
     return amount;
   }
 
-  public amount BillPayment(double amount){
+  public double BillPayment(double amount){
     if(amount+totalWithdrawn > maxLimit){
-      Console.WriteLine("Maximum Limit of the card is exceeded. You can spend " + maxLimit-totalWithdrawn + " only before you pay your bill").
+      Console.WriteLine("Maximum Limit of the card is exceeded. You can spend " + (maxLimit-totalWithdrawn) + " only before you pay your bill");
       return 0;
     }
 
-    totalWithdrawn -= amount;
+    totalWithdrawn += amount;
     return amount;
+  }
+
+  public double GetCardAvailableLimit(){
+    return maxLimit - totalWithdrawn;
   }
 }

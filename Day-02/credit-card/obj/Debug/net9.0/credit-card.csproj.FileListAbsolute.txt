@@ -1,0 +1,15 @@
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/obj/Debug/net9.0/credit-card.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/obj/Debug/net9.0/credit-card.AssemblyInfoInputs.cache
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/obj/Debug/net9.0/credit-card.AssemblyInfo.cs
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/obj/Debug/net9.0/credit-card.csproj.CoreCompileInputs.cache
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/obj/Debug/net9.0/credit-card.sourcelink.json
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/bin/Debug/net9.0/credit-card
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/bin/Debug/net9.0/credit-card.deps.json
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/bin/Debug/net9.0/credit-card.runtimeconfig.json
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/bin/Debug/net9.0/credit-card.dll
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/bin/Debug/net9.0/credit-card.pdb
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/obj/Debug/net9.0/credit-card.dll
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/obj/Debug/net9.0/refint/credit-card.dll
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/obj/Debug/net9.0/credit-card.pdb
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/obj/Debug/net9.0/credit-card.genruntimeconfig.cache
+/Users/mehedihasan06/Developer/mission-fang/OOP-C#/Code/Day-02/credit-card/obj/Debug/net9.0/ref/credit-card.dll
